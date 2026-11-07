@@ -13,5 +13,5 @@ window.SC_CFG={
   messagingSenderId:"",
   appId:"",
   region:"us-central1",          // регион Cloud Functions (как в functions/index.js)
-  owner:"you@example.com"         // почта владельца: он создаст канал «Создатель» и будет им управлять
+  owner:"v35370489@gmail.com"         // почта владельца: он создаст канал «Создатель» и будет им управлять
 };
